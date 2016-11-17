@@ -35,6 +35,10 @@ looks simple but it requires POCO.
 ### Tools
 
 * [LinqPad](https://www.linqpad.net/) - enables doing query via LINQ.
+* Tools written with Go language
+  * [sql2xlsx](https://github.com/bwmarrin/sql2xlsx) - A simple program to convert SQL rows into Microsoft Excel XLSX files.
+  * [go-mssqldb](https://github.com/denisenkom/go-mssqldb) - A pure Go MSSQL driver for Go's database/sql package
+  * [xlsx](https://github.com/tealeg/xlsx) - xlsx is a library to simplify reading and writing the XML format used by recent version of Microsoft Excel in Go programs.
 
 ### Database-Drivers
 
