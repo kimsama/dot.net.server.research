@@ -23,7 +23,7 @@ Some of libraries which prevents from doing tedious and dirty job on SQL databas
 * [Dapper](https://github.com/StackExchange/dapper-dot-net) - a simple object mapper for .Net which make it easy to access Sql server without complex POCO and stored-procedure.
   * See also other Dapper related projects such as Dapper.Extension, Dapper.Extention.Linq and so on.
 * ~~[How to use Dapper with Linq](http://stackoverflow.com/questions/38826292/how-to-use-dapper-with-linq): stackoverflow thread.~~
-** See [Dapper.Contrib](https://github.com/StackExchange/dapper-dot-net/tree/master/Dapper.Contrib) which contains a number of helper methods for inserting, getting, updating and deleting records.
+  * See [Dapper.Contrib](https://github.com/StackExchange/dapper-dot-net/tree/master/Dapper.Contrib) which contains a number of helper methods for inserting, getting, updating and deleting records.
 
 ### [SQLinq](https://sqlinq.codeplex.com/)
 
