@@ -22,7 +22,8 @@ Some of libraries which prevents from doing tedious and dirty job on SQL databas
 
 * [Dapper](https://github.com/StackExchange/dapper-dot-net) - a simple object mapper for .Net which make it easy to access Sql server without complex POCO and stored-procedure.
   * See also other Dapper related projects such as Dapper.Extension, Dapper.Extention.Linq and so on.
-* [How to use Dapper with Linq](http://stackoverflow.com/questions/38826292/how-to-use-dapper-with-linq): stackoverflow thread.
+* ~[How to use Dapper with Linq](http://stackoverflow.com/questions/38826292/how-to-use-dapper-with-linq): stackoverflow thread.~
+** See [Dapper.Contrib](https://github.com/StackExchange/dapper-dot-net/tree/master/Dapper.Contrib) which contains a number of helper methods for inserting, getting, updating and deleting records.
 
 ### [SQLinq](https://sqlinq.codeplex.com/)
 
@@ -31,6 +32,11 @@ Easily generate ad-hoc SQL code using LINQ in a strongly typed manner that allow
 ### [linq2db](https://github.com/linq2db/linq2db)
 
 looks simple but it requires POCO.
+
+### Excel with SQL 
+
+* [Excel data files with Microsoft SQL Server Integration Services](http://dougbert.com/blog/post/excel-in-integration-services-part-1-of-3-connections-and-components.aspx) - series of posts about working with Excel and MS-SQL.
+* [How to Import an Excel Spreadsheet into a SQL Server Database Table Using the SQL Server Import and Export Wizard](http://www.66pacific.com/sql_server_import_from_excel.aspx)
 
 ### Tools
 
