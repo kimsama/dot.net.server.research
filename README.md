@@ -25,6 +25,10 @@ Some of libraries which prevents from doing tedious and dirty job on SQL databas
 * ~~[How to use Dapper with Linq](http://stackoverflow.com/questions/38826292/how-to-use-dapper-with-linq): stackoverflow thread.~~
   * See [Dapper.Contrib](https://github.com/StackExchange/dapper-dot-net/tree/master/Dapper.Contrib) which contains a number of helper methods for inserting, getting, updating and deleting records.
 * [MicroOrm.Dapper.Repositories](https://github.com/phnx47/MicroOrm.Dapper.Repositories): which abstracts the generation of the SQL sentence for CRUD operations based on each C# POCO class "metadata".
+* A few Dapper tutorials
+  * [Dapper .NET Tutorial I](https://liangwu.wordpress.com/2012/08/16/dapper-net-samples/)
+  * [Choosing a Data Access Implementation](http://www.bradoncode.com/blog/2012/12/choosing-data-access-implementation-10.html)
+  * [Creating a Data Repository using Dapper](http://www.bradoncode.com/blog/2012/12/creating-data-repository-using-dapper.html)
 
 ### [SQLinq](https://sqlinq.codeplex.com/)
 
