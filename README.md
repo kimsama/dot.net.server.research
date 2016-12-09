@@ -9,6 +9,7 @@ front-end socket server with *supersocket* and *orleans* for logic framwork comb
 ### [orleans](https://github.com/dotnet/orleans)
 
 * [orleans](https://github.com/dotnet/orleans) - looks better than Akka.Net as an actor framework.
+* [ASP.NET](http://www.egocube.pe.kr/Translation/Index/asp-net-core-mvc-views) for a front-end of Orleans. (vaious Korean translated documents of ASP.NET)
 
 ### [supersocket](https://github.com/kerryjiang/SuperSocket)
 
