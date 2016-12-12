@@ -22,7 +22,7 @@
 * [What is state persistence in “Orleans” and how to use it?](http://social.technet.microsoft.com/wiki/contents/articles/24953.what-is-state-persistence-in-orleans-and-how-to-use-it.aspx) - A blog post describes state-persistence into sql-Server.
 
 
-## Slide or Video
+## Slides and Videoes
 
 * [Using Orleans to Build Halo 4’s Distributed Cloud Services in Azure](https://channel9.msdn.com/Events/Build/2014/3-641) - provides more details decription on Prsence sample.
 > _Halo 4 Presence Service_ - A server-side app  that keeps track of all the different sessions, players and each game’s current status.
