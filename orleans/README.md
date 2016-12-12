@@ -22,3 +22,8 @@
 * [What is state persistence in “Orleans” and how to use it?](http://social.technet.microsoft.com/wiki/contents/articles/24953.what-is-state-persistence-in-orleans-and-how-to-use-it.aspx) - A blog post describes state-persistence into sql-Server.
 
 > _Halo 4 Presence Service_ - A server-side app  that keeps track of all the different sessions, players and each game’s current status.
+
+
+## Sample Project
+
+* [Yggmire](https://github.com/Luaancz/Yggmire) - An crafting MMO platform built on top of Microsoft Research's Project "Orleans" found on github.
