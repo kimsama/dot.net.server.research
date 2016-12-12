@@ -1,13 +1,20 @@
 # Orleans Related
 
-## CaitieM's blog post
+## Various Blog Posts
+
+### CaitieM's 
 
 * [Creating RESTful Services using Orleans](https://caitiem.com/2014/04/04/creating-restful-services-using-orleans/) - A brief mention on of all yet simple decription on Orleans. 
 * [Clarifying Orleans Messaging Guarantees](https://caitiem.com/2015/02/08/clarifying-orleans-messaging-guarantees/)
 
-## Gamasutra
+### Gamasutra
 
 * [Creating scalable backends for games using open source Orleans framework](http://www.gamasutra.com/blogs/AshkanSaeediMazdeh/20151008/255588/Creating_scalable_backends_for_games_using_open_source_Orleans_framework.php)
+
+### Welly Tambunan – The Extremist Programmer
+
+ * [Getting Started with Microsoft Orleans](https://weltam.wordpress.com/2016/07/25/getting-started-with-microsoft-orleans/#more-1546) 
+
 
 ## Persistence Related
 
